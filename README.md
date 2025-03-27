@@ -9,7 +9,7 @@ What is Smoke?
 Smoke is a decentralised digital currency with near-instant transaction speeds and negligible transaction fees built upon Proof of Stake 3.0 (PoSV3, BPoS) as
 introduced by the Smoke development team.
 
-For more information about Smoke itself, see https://smoke.org.
+For more information about Smoke itself, see https://cannacoin.org.
 
 What is Smoke?
 ----------------
@@ -29,7 +29,7 @@ Development Process
 -------------------
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/grasshaussoftware/smoke/tags) are created
+completely stable. [Tags](https://github.com/cannacoin-official/smoke/tags) are created
 regularly to indicate new official, stable release versions of Smoke.
 
 Change log can be found in [CHANGELOG.md](CHANGELOG.md).
